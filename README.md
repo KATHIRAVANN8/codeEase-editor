@@ -1,5 +1,17 @@
-# Build-Live-Code-Editor-Like-CodePen-W3School-JsFiddle-JsBin-Without-Plugins
-Let's build your own live web code editor like w3school, codepen, jsfiddle, jsbin, etc. This editor can handle html, css &amp; js code and can be resized.
+# CodeEase
 
-> You can do whatever you want with the code. However if you love my content, you can **SUBSCRIBED** my YouTube Channel.
-🌎link: www.youtube.com/codingdesign
+**Live. Code. Switch.**  
+A clean, beginner-friendly web code editor for HTML, CSS, and JavaScript. It features a live preview, light/dark theme toggle, and resizable code panels — ideal for learning, quick prototyping, and practicing web development.
+
+---
+
+## ✨ Features
+
+- ✅ Real-time live preview
+- 🎨 Theme toggle (Dark & Light modes)
+- 📦 HTML, CSS, JS panel separation
+- 🖱️ Resizable editor boxes with double-click maximize
+- ⚡ Instant rendering without external setup
+
+---
+
