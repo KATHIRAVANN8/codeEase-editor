@@ -1,17 +1,21 @@
-# CodeEase
+# CodeEase Editor
 
-**Live. Code. Switch.**  
-A clean, beginner-friendly web code editor for HTML, CSS, and JavaScript. It features a live preview, light/dark theme toggle, and resizable code panels — ideal for learning, quick prototyping, and practicing web development.
+**CodeEase** is a beginner-friendly online code editor for HTML, CSS, and JavaScript.  
+It features live preview, dark/light theme toggle, and resizable code panels — perfect for learning, practicing, and quick prototyping.
+
+🚀 **Live Demo**: [Click here to try CodeEase](https://codeease-editor.netlify.app)
 
 ---
 
 ## ✨ Features
 
-- ✅ Real-time live preview
-- 🎨 Theme toggle (Dark & Light modes)
-- 📦 HTML, CSS, JS panel separation
-- 🖱️ Resizable editor boxes with double-click maximize
-- ⚡ Instant rendering without external setup
+- 📄 Three editable panels: HTML, CSS, JavaScript
+- ⚡ Instant live preview
+- 🌙 Light/Dark theme toggle
+- 🪟 Resizable editor panels with full-screen mode
+- 💻 Beginner-friendly UI with zero setup
 
 ---
+
+## 📁 Folder Structure
 
