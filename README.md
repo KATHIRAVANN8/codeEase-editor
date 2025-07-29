@@ -17,5 +17,5 @@ It features live preview, dark/light theme toggle, and resizable code panels —
 
 ---
 
-## 📁 Folder Structure
+
 
